@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="yellow">#FFFF00</color><!--yellow -->   
+     
+    <color name="floralwhite">#FFFAF0</color><!--floralwhite -->   
+     
+    <color name="lavenderblush">#FFF0F5</color><!--lavenderblush -->   
+     
+    <color name="blanchedalmond">#ffebcd</color><!--blanchedalmond -->   
+    <color name="mistyrose">#FFE4E1</color><!--mistyrose -->   
+      
+    <color name="peachpuff">#FFDAB9</color><!--peachpuff -->   
+    <color name="gold">#FFD700</color><!--gold -->   
+    <color name="pink">#FFC0CB</color><!--pink -->   
+     
+    <color name="orange">#FFA500</color><!--orange -->   
+
+    <color name="darkorange">#FF8C00</color><!--darkorange -->   
+      
+    <color name="hotpink">#FF69B4</color><!--hotpink -->   
+    <color name="tomato">#FF6347</color><!--tomato -->   
+      
+    <color name="deeppink">#FF1493</color><!--deeppink -->   
+    <color name="fuchsia">#FF00FF</color><!--fuchsia -->    
+    <color name="red">#FF0000</color><!--red -->   
+     
+    <color name="linen">#FAF0E6</color><!--linen -->   
+     
+    <color name="sandybrown">#F4A460</color><!--sandybrown -->   
+    <color name="azure">#f0ffff</color><!--azure -->   
+      
+     
+    <color name="palegoldenrod">#EEE8AA</color><!--palegoldenrod -->   
+    <color name="violet">#EE82EE</color><!--violet -->   
+
+    <color name="lightcyan">#E0FFFF</color><!--lightcyan -->   
+      
+    <color name="crimson">#DC143C</color><!--crimson -->   
+
+    <color name="chocolate">#D2691E</color><!--chocolate -->   
+      
+    <color name="silver">#C0C0C0</color><!--silver -->   
+     
+    <color name="powderblue">#B0E0E6</color><!--powderblue -->   
+     
+    <color name="greenyellow">#ADFF2F</color><!--greenyellow -->   
+      
+    <color name="darkgray">#a9a9a9</color><!--darkgray -->   
+    <color name="brown">#A52A2A</color><!--brown -->   
+     
+     
+    <color name="lightskyblue">#87CEFA</color><!--lightskyblue -->   
+    <color name="skyblue">#87CEEB</color><!--skyblue -->   
+    <color name="gray">#808080</color><!--gray -->   
+
+    <color name="aquamarine">#7FFFD4</color><!--aquamarine -->   
+    <color name="chartreuse">#7FFF00</color><!--chartreuse -->   
+    <color name="lawngreen">#7CFC00</color><!--lawngreen -->   
+    <color name="mediumslateblue">#7B68EE</color><!--mediumslateblue -->   
+    <color name="lightslategray">#778899</color><!--lightslategray -->   
+    <color name="slategray">#708090</color><!--slategray -->   
+     
+    <color name="dimgray">#696969</color><!--dimgray -->   
+
+    <color name="press">#25fa55</color>
+
+      
+    <color name="deepskyblue">#00BFFF</color><!--deepskyblue -->   
+    <color name="darkcyan">#008B8B</color><!--darkcyan -->   
+     
+    <color name="blue">#0000ff</color><!--blue -->   
+    <color name="mediumblue">#0000CD</color><!--mediumblue -->   
+     
+    <color name="black">#000000</color><!--black -->   
+
+    <color name="gray_8f">#8f8f8f</color><!--gray_8f -->   
+
+    <color name="transparent">#00000000</color><!--transparent -->   
+    <color name="white">#FFFFFF</color><!--white -->   
+    <color name="ivory">#FFFFF0</color><!--ivory -->
+</resources>

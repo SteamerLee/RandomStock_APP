@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RandomStock</string>
+
+    // Localized
+    <string name="action_settings">setting</string>
+    <string name="action_delete">Delete</string>
+    <string name="button_add_label">ADD</string>
+    <string name="stock_name_title">Name</string>
+    <string name="stock_now_title">Now</string>
+    <string name="stock_increase_percent_title">Percent</string>
+    <string name="stock_increase_title">Change</string>
+    <string name="stock_sh_name">SH_Index</string>
+    <string name="stock_sz_name">SZ_Index</string>
+    <string name="stock_ge_name">GE_Index</string>
+    <string name="stock_buy">Buy</string>
+    <string name="stock_sell">Sell</string>
+
+
+
+
+</resources>
